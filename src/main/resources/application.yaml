@@ -1,0 +1,7 @@
+# 端口
+server:
+  port: 8002
+# 数据集路径，不要有中文
+data:
+  path: src/main/java/cn/edu/tju/lbci/data/
+
